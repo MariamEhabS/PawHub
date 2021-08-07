@@ -1,3 +1,4 @@
+<!-- <<<<<<< HEAD
 # Install
 
 `npm install`
@@ -18,3 +19,6 @@
 # Run
 
 `npm start`
+=======
+# PawHub
+>>>>>>> 00cee4281c006807c0a56e2e57dbf8f6d15896fd -->
